@@ -25,6 +25,7 @@ Ben Nesibe, yeni şeyler öğrenmeyi seven ve kendini geliştirmekte olan biriyi
 ## 📊 GitHub İstatistiklerim
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nesibekzltprk&show_icons=true&theme=radical&hide=contribs,prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesibekzltprk&layout=compact&theme=radical)
 
 
